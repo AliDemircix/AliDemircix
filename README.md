@@ -20,11 +20,14 @@ Here are some ideas to get you started:
 
 I'm from Turkey, 
 I have just started studying at HackYourFuture.
+
+---
+<p>
 Follow me 
  <a href="https://instagram.com/turkaslan_">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
----
+ <p>
 
 
 ### Technologies & Tools

@@ -22,10 +22,8 @@ I'm from Turkey,
 I have just started studying at HackYourFuture.
 
 ---
-###Follow Me
- <a href="https://instagram.com/turkaslan_">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
+### Follow Me
+![Instagram](https://img.shields.io/badge/<turkaslan_>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 ![Skype](https://img.shields.io/badge/<alidemircix>-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)
 ---
 

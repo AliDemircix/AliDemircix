@@ -2,9 +2,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliDemircix&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliDemircix&show_icons=true&theme=radical)
 
-![](https://img.shields.io/badge/<HTML>-<FRONTEND>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-(https://img.shields.io/static/v1?label=<FRONTEND>&message=<HTML>&color=<RED>)
-  https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
+(https://img.shields.io/badge/<HTML>-<FRONTEND>)
+
 <!--
 **AliDemircix/AliDemircix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -39,7 +39,6 @@ I have just started studying at HackYourFuture.
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 &nbsp;
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![NextJs]
 
 
 
@@ -48,7 +47,6 @@ I have just started studying at HackYourFuture.
 
 <!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 
----
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AliDemircix&layout=compact)](https://github.com/AliDemircix/)
 
@@ -63,7 +61,7 @@ I have just started studying at HackYourFuture.
 ---
 
 ![Profile views](https://gpvc.arturio.dev/AliDemircix)
-You can Follow me in Instagram <a href="https://instagram.com/turkaslan_">
+ <a href="https://instagram.com/turkaslan_">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
 ---

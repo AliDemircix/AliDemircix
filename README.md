@@ -12,8 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Ali DEMIRCI 
-## 👨‍💻 Full Stack Web Developer 👨‍💻
+# Ali DEMIRCI 👨‍💻 Full Stack Web Developer 👨‍💻
 
 ### Hello, everybody! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 

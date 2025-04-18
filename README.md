@@ -18,9 +18,6 @@ Here are some ideas to get you started:
 
 ---
 
-I'm from Turkey, 
-I have just started studying at HackYourFuture.
-
 
 ### Follow Me
 ![Instagram](https://img.shields.io/badge/<turkaslan_>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
